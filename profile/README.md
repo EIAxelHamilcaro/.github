@@ -1,4 +1,4 @@
-# 🧠 EIAxelHamilcaro
+# 🧠 EI - AxelHamilcaro
 
 **Tailored software. Clean architecture. Product-first mindset.**  
 From idea to scale — with precision and purpose.
@@ -7,7 +7,7 @@ From idea to scale — with precision and purpose.
 
 ## About
 
-EIAxelHamilcaro is the tech organization of [Axel Hamilcaro](https://github.com/axelhamil), a fullstack TypeScript developer focused on crafting solid, maintainable, and market-ready web apps.
+EI - AxelHamilcaro is the tech organization of [Axel Hamilcaro](https://github.com/axelhamil), a fullstack TypeScript developer focused on crafting solid, maintainable, and market-ready web apps.
 
 Grounded in Clean Architecture and Domain-Driven Design (DDD), I help clients move fast from concept to product without compromising quality.
 
