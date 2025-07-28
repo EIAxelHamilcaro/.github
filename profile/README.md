@@ -1,37 +1,37 @@
 # 🧠 EIAxelHamilcaro
 
-**Tailored software, clean architecture, product-first mindset.**  
-From scratch to scale — with precision and purpose.
+**Tailored software. Clean architecture. Product-first mindset.**  
+From idea to scale — with precision and purpose.
 
 ---
 
-## 🧭 About
+## About
 
-**EIAxelHamilcaro** is the tech organization of Axel Hamilcaro — a fullstack developer focused on building solid, maintainable, and market-ready web applications.
+EIAxelHamilcaro is the tech organization of [Axel Hamilcaro](https://github.com/axelhamil), a fullstack TypeScript developer focused on crafting solid, maintainable, and market-ready web apps.
 
-With a deep craft approach and experience in Clean Architecture and Domain-Driven Design (DDD), I help clients go from early concept to working product — fast, lean, and with lasting quality.
-
----
-
-## 🚀 What I Do
-
-- Fullstack TypeScript development (Next.js, React, Fastify, etc.)
-- Scalable, modular backend architecture (Clean Arch + DDD)
-- MVPs built fast, with real-world usage in mind
-- Production-grade CI/CD pipelines and cloud deployments
-- Product shaping & validation during early stages
+Grounded in Clean Architecture and Domain-Driven Design (DDD), I help clients move fast from concept to product without compromising quality.
 
 ---
 
-## 🧱 Repositories
+## What I Do
 
-This organization hosts active or archived projects built for clients, technical prototypes, and reusable modules.  
-Most repositories are private. Some reusable bricks may be open-sourced when relevant.
+- Fullstack TypeScript (Next.js, React, Fastify)
+- Scalable backend with Clean Architecture & DDD
+- Rapid MVPs with real-world validation
+- Robust CI/CD & cloud deployments
+- Product shaping and market-fit guidance
 
 ---
 
-## 🤝 Work with Me
+## Repositories
 
-Need a product engineer who can think, build, and deliver?  
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/axelhamilcaro/) or email me at: `axel.hamilcaro-pro@outlook.fr`
+This org hosts client projects, prototypes, and reusable modules.  
+Most repos are private; open-source bricks appear when relevant.
 
+---
+
+## Let’s Work Together
+
+Looking for a pragmatic engineer who delivers?  
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/axelhamilcaro/)  
+✉️ Email: `axel.hamilcaro-pro@outlook.fr`
